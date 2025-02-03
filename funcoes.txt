@@ -1,0 +1,4 @@
+fnPostDataStorage
+fnPostDatabase
+fnGetAllMovies
+fnGetDetails
